@@ -1,2 +1,3 @@
 # Asteroid-Square-Belt
-First game
+First game 
+Run the program by 
