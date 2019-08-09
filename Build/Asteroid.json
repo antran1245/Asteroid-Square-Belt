@@ -1,0 +1,14 @@
+{
+"companyName": "Bot",
+"productName": "Asteroid Example",
+"dataUrl": "Asteroid.data.unityweb",
+"asmCodeUrl": "Asteroid.asm.code.unityweb",
+"asmMemoryUrl": "Asteroid.asm.memory.unityweb",
+"asmFrameworkUrl": "Asteroid.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
